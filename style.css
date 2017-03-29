@@ -1,0 +1,141 @@
+/* Element styles */
+body {
+  color: #333;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-family: 'Lora', serif;
+  font-style: italic;
+  font-weight: 700;
+}
+
+h2, 
+h3, 
+h4, 
+h5, 
+h6 {
+  font-family: 'Lora', serif;
+}
+
+code, 
+samp, 
+var, 
+kbd,
+pre {
+  font-family: 'Space Mono', monospace;
+}
+
+ul li {
+  list-style-type: square; 
+}
+
+::selection {
+       background-color: #05f;
+       color: #FFFFFF;
+}
+
+::-moz-selection {
+       background-color: #05f;
+       color: #FFFFFF;
+}
+
+/* Layout */
+
+body {
+  margin: 0; 
+}
+
+#container {
+  display: flex;
+  flex-flow: row wrap; 
+  margin: 5em auto 0 auto;
+  max-width: 64rem;
+}
+
+header,
+main, 
+#sidebar, 
+footer {
+  flex: 100%; 
+}
+
+@media screen and (min-width: 40em) {
+  main {
+    flex: 3 1 1%;
+    max-width: 40rem;
+  }
+
+  #sidebar {
+    flex: 1 1 1%;  
+  }
+}
+
+/* Navigation */
+#navigation-main {
+  background: #0af;
+  color: #fff;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+#navigation-main ul {
+  list-style: none;
+  margin: 0 auto;
+  max-width: 64rem;
+  padding: .75rem 0; 
+}
+
+#navigation-main ul li {
+  display: inline;
+  font-weight: bold;
+  padding: .75rem;
+  transition: .1s;
+}
+
+#navigation-main ul li:hover {
+  background: #05f;
+  cursor: pointer;
+  display: inline;
+  transition: .15s;
+ }
+
+/* Header */
+
+#page-header-logo {
+  width: 20%;
+  max-width: 6rem;
+  min-width: 4rem;
+}
+
+#page-header {
+   display: flex;
+}
+
+#page-header h1, 
+#page-header h2, 
+#page-header p {
+  margin: 0 1rem;
+}
+
+#page-header-sitename {
+  display: none; 
+}
+
+@media screen and (min-width: 28em) {
+  #page-header-sitename {
+    display: block; 
+  }
+}
+
+/* Main */
+
+main {
+  padding: 0 .5rem; 
+}
+
+#sidebar {
+  padding: 0 .5rem; 
+}
