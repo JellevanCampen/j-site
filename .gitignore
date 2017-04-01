@@ -3,3 +3,6 @@ _notes/
 
 # Server files
 .htaccess
+
+# Windows files
+thumbs.db
