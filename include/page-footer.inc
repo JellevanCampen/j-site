@@ -1,0 +1,8 @@
+<footer>
+  <div id="social-links">
+    Social links
+  </div>
+  <div id="copyright-notice">
+    Copyright Jelle van Campen
+  </div>
+</footer>

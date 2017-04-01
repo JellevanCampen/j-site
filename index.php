@@ -1,48 +1,11 @@
 <!doctype html>
 <head>
-  <meta charset="utf-8">
-  <meta name="title" content="Computer Science, Graphics, and Games | The J-site">
-  <meta name="description" content="Hi! The J-site is my channel for highlighting the magic in everyday computer technology. I keep a blog, write articles and create projects. See you inside!">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="apple-mobile-web-app-title" content="J-site">
-  <meta name="application-name" content="J-site">
-  <meta name="theme-color" content="#ffffff">
-  
-  <link href="https://fonts.googleapis.com/css?family=Lora:400,700i|Roboto:300,300i|Space+Mono" rel="stylesheet">
-  <link ref="stylesheet" href="normalize.css">
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="fonts/typicons/typicons.min.css" />
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-  <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-  <link rel="manifest" href="/manifest.json">
-  
-  <title>Home | J-site</title>
-  
-  <script src="scripts/jquery-3.2.0.min.js" defer></script>
-  <script src="scripts/general.js" defer></script>
+  <?php include('include/head.inc'); ?>
 </head>
 <body>
-  <nav id="navigation-main">
-    <ul>
-      <li><a href="#"><i class="typcn typcn-home-outline"></i> Home</a></li>
-      <li><a href="#"><i class="typcn typcn-message"></i> Blog</a></li>
-      <li><a href="#"><i class="typcn typcn-document-text"></i> Articles</a></li>
-      <li><a href="#"><i class="typcn typcn-folder"></i> Projects</a></li>
-      <li><a href="#"><i class="typcn typcn-info-large-outline"></i> About</a></li>
-    </ul>
-  </nav>
+  <?php include('include/navigation.inc'); ?>
   <div id="container">
-    <header id="page-header">
-      <div id="page-header-logo">
-        <img src="images/logo.svg" alt="Logo of the J-site." >
-      </div>
-      <div>
-        <span id="page-header-sitename">Jelle van Campen</span>
-        <span id="page-header-pagename">Responsive layouts using CSS Flex</span>
-        <span id="page-header-breadcrumb">Article <i class="typcn typcn-media-play"></i> Tutorial <i class="typcn typcn-media-play"></i> Responsive layouts using CSS Flex</span>   
-      </div>
-    </header>
+    <?php include('include/page-header.inc'); ?>
     <main>
       <!-- Sample Content to Plugin to Template --> 
       <h1>Heading One</h1>
@@ -197,14 +160,6 @@
       <h2>Sidebar</h2>
       <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
     </div>
-    <footer>
-      Footer
-      <div id="social-links">
-        Social links
-      </div>
-      <div id="copyright-notice">
-        Copyright Jelle van Campen
-      </div>
-    </footer>
+    <?php include('include/page-footer.inc'); ?>
   </div>
 </body>
