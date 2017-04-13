@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Client.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="ClientException.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="Curl.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="ForbiddenException.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="HttpHeaders.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="InvalidCertificateException.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="InvalidUrlException.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="MaxRedirectException.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="MaxSizeException.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="Stream.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="TimeoutException.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="UnauthorizedException.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="Url.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AggregatedCollector.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="AssetProvider.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="ConfigCollector.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="DataCollector.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="DataCollectorInterface.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="ExceptionsCollector.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="LocalizationCollector.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="MemoryCollector.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="MessagesAggregateInterface.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="MessagesCollector.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="PhpInfoCollector.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="Renderable.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="RequestDataCollector.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="TimeDataCollector.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+</dwsync>

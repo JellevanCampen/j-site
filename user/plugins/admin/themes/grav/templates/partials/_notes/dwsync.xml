@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="base.html.twig" server="C:/wamp/www/" local="131363847700000000" remote="131363847700000000" Dst="2" />
+<file name="blueprints-new-folder.html.twig" server="C:/wamp/www/" local="131363847700000000" remote="131363847700000000" Dst="2" />
+<file name="blueprints-new.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="blueprints-raw.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="blueprints.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="dashboard-feed.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="dashboard-maintenance.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="dashboard-notifications.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="dashboard-pages.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="dashboard-statistics.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="header.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="javascript-config.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="javascripts.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="list-sort.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="login.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="logo.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="messages.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="modal-add-package.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="modal-changes-detected.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="modal-reinstall-package.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="modal-remove-package.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="modal-update-packages.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="nav-toggle.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="nav-user-avatar.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="nav-user-details.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="nav.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="page-children.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="page-legend.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="page-move.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="plugin-data.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="plugins-details.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="plugins-list.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="register.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="release-toggle.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="stylesheets.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="theme.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="themes-details.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="themes-list.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="tools-direct-install.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="userinfo-avatar-credit.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="userinfo-avatar.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+</dwsync>

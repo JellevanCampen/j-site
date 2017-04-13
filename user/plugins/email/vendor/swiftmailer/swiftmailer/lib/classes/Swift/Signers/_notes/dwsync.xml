@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BodySigner.php" server="C:/wamp/www/" local="131362912328780348" remote="131362912320000000" Dst="2" />
+<file name="DKIMSigner.php" server="C:/wamp/www/" local="131362912328860358" remote="131362912320000000" Dst="2" />
+<file name="DomainKeySigner.php" server="C:/wamp/www/" local="131362912328930364" remote="131362912320000000" Dst="2" />
+<file name="HeaderSigner.php" server="C:/wamp/www/" local="131362912328990374" remote="131362912320000000" Dst="2" />
+<file name="OpenDKIMSigner.php" server="C:/wamp/www/" local="131362912329050368" remote="131362912320000000" Dst="2" />
+<file name="SMimeSigner.php" server="C:/wamp/www/" local="131362912329120369" remote="131362912320000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractLogger.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="LoggerAwareInterface.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="LoggerAwareTrait.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="LoggerInterface.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="LoggerTrait.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="LogLevel.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="NullLogger.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ApcCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="ApcuCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="ArrayCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="Cache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="CacheProvider.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="ChainCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="ClearableCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="CouchbaseCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="FileCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="FilesystemCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="FlushableCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="MemcacheCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="MemcachedCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="MongoDBCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="MultiGetCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="MultiPutCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="PhpFileCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="PredisCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="RedisCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="RiakCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="SQLite3Cache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="Version.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="VoidCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="WinCacheCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="XcacheCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="ZendDataCache.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+</dwsync>

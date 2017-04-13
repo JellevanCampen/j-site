@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CommandEvent.php" server="C:/wamp/www/" local="131362912323330035" remote="131362912320000000" Dst="2" />
+<file name="CommandListener.php" server="C:/wamp/www/" local="131362912323390044" remote="131362912320000000" Dst="2" />
+<file name="Event.php" server="C:/wamp/www/" local="131362912323460045" remote="131362912320000000" Dst="2" />
+<file name="EventDispatcher.php" server="C:/wamp/www/" local="131362912323530049" remote="131362912320000000" Dst="2" />
+<file name="EventListener.php" server="C:/wamp/www/" local="131362912323600055" remote="131362912320000000" Dst="2" />
+<file name="EventObject.php" server="C:/wamp/www/" local="131362912323660144" remote="131362912320000000" Dst="2" />
+<file name="ResponseEvent.php" server="C:/wamp/www/" local="131362912323720059" remote="131362912320000000" Dst="2" />
+<file name="ResponseListener.php" server="C:/wamp/www/" local="131362912323780066" remote="131362912320000000" Dst="2" />
+<file name="SendEvent.php" server="C:/wamp/www/" local="131362912323850075" remote="131362912320000000" Dst="2" />
+<file name="SendListener.php" server="C:/wamp/www/" local="131362912323910070" remote="131362912320000000" Dst="2" />
+<file name="SimpleEventDispatcher.php" server="C:/wamp/www/" local="131362912323980132" remote="131362912320000000" Dst="2" />
+<file name="TransportChangeEvent.php" server="C:/wamp/www/" local="131362912324040080" remote="131362912320000000" Dst="2" />
+<file name="TransportChangeListener.php" server="C:/wamp/www/" local="131362912324110084" remote="131362912320000000" Dst="2" />
+<file name="TransportExceptionEvent.php" server="C:/wamp/www/" local="131362912324170087" remote="131362912320000000" Dst="2" />
+<file name="TransportExceptionListener.php" server="C:/wamp/www/" local="131362912324240091" remote="131362912320000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,81 @@
+{% set theme_config = attribute(config.themes, config.system.pages.theme) %}
+<!doctype html>
+<html lang="{{ grav.language.getActive ?: theme_config.default_lang }}">
+
+<head>
+    {% block head %}
+    
+    {# Metadata #}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#ffffff">
+    {% include 'partials/metadata.html.twig' %}
+    <title>{% if header.title %}{{ header.title|e('html') }} | {% endif %}{{ site.title|e('html') }}</title>
+    
+    {# Icon #}
+    <link rel="icon" type="image/png" href="{{ url('theme://images/favicon-32x32.png') }}" sizes="32x32">
+    <link rel="icon" type="image/png" href="{{ url('theme://images/favicon-16x16.png') }}" sizes="16x16">
+    <link rel="apple-touch-icon" href="{{ url('theme://images/apple-touch-icon.png') }}" sizes="180x180">
+    
+    {# Canonical URL as full URL #}
+    <link rel="canonical" href="{{ page.url(true, true) }}" />
+    
+    {# CSS #}
+    {% block stylesheets %}
+        {% do assets.addCss('https://fonts.googleapis.com/css?family=Lora:400,700i|Roboto:300,300i|Space+Mono', 100) %}
+        {% do assets.addCss('https://fonts.googleapis.com/icon?family=Material+Icons', 99) %}
+        {% do assets.addCss('theme://css/normalize.css', 98) %}
+        {% do assets.addCss('theme://css/theme.css', 97) %}
+    {% endblock stylesheets %}
+    {{ assets.css() }}
+    
+    {# JavaScripts #}
+    {% block javascripts %}
+        {% do assets.addJs('jquery', 100) %}
+        {% do assets.addJs('theme://js/theme.js', 99) %}
+    {% endblock javascripts %}
+    {{ assets.js() }}
+    
+    {% endblock head %}
+</head>
+
+<body class="{{ page.header.body_classes }}">
+  
+  {% block page_navigation %}
+  <nav id="page-navigation">
+    {% include 'partials/navigation.html.twig' %}
+  </nav>
+  {% endblock page_navigation %}
+  
+  <div id="container">
+   
+    {% block page_header %}
+    <header id="page-header">
+      {% include 'partials/header.html.twig' %}
+    </header>
+    {% endblock page_header %}
+    
+    {% block page_main %}
+    <main>
+      {% block main_content %}{% endblock main_content %}
+    </main>
+    {% endblock page_main %}
+      
+    <div id="sidebar">
+      {% block sidebar_content %}{% endblock sidebar_content %}
+    </div>
+       
+    {% block page_footer %}
+    <footer>
+      {% include 'partials/footer.html.twig' %}
+    </footer>
+    {% endblock page_footer %}
+    
+  </div>
+  
+  {% block bottom %}
+    {{ assets.js('bottom') }}
+  {% endblock %}
+  
+</body>
+</html>

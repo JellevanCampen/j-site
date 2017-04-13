@@ -1,0 +1,11 @@
+email: jellevcampen@gmail.com
+fullname: 'Jelle van Campen'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$IDH.J7m.zY54iGJHM4.af.zpfgT67W5sJ6Iw.x06FC7fZb9cspSB.

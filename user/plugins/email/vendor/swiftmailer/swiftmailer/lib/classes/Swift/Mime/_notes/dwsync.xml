@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Attachment.php" server="C:/wamp/www/" local="131362912324860135" remote="131362912320000000" Dst="2" />
+<file name="CharsetObserver.php" server="C:/wamp/www/" local="131362912324930136" remote="131362912320000000" Dst="2" />
+<file name="ContentEncoder.php" server="C:/wamp/www/" local="131362912324980137" remote="131362912320000000" Dst="2" />
+<file name="EmbeddedFile.php" server="C:/wamp/www/" local="131362912325040143" remote="131362912320000000" Dst="2" />
+<file name="EncodingObserver.php" server="C:/wamp/www/" local="131362912325100141" remote="131362912320000000" Dst="2" />
+<file name="Grammar.php" server="C:/wamp/www/" local="131362912325170147" remote="131362912320000000" Dst="2" />
+<file name="Header.php" server="C:/wamp/www/" local="131362912325230148" remote="131362912320000000" Dst="2" />
+<file name="HeaderEncoder.php" server="C:/wamp/www/" local="131362912325280151" remote="131362912320000000" Dst="2" />
+<file name="HeaderFactory.php" server="C:/wamp/www/" local="131362912325350152" remote="131362912320000000" Dst="2" />
+<file name="HeaderSet.php" server="C:/wamp/www/" local="131362912325410161" remote="131362912320000000" Dst="2" />
+<file name="Message.php" server="C:/wamp/www/" local="131362912325480159" remote="131362912320000000" Dst="2" />
+<file name="MimeEntity.php" server="C:/wamp/www/" local="131362912325530166" remote="131362912320000000" Dst="2" />
+<file name="MimePart.php" server="C:/wamp/www/" local="131362912325600169" remote="131362912320000000" Dst="2" />
+<file name="ParameterizedHeader.php" server="C:/wamp/www/" local="131362912325660173" remote="131362912320000000" Dst="2" />
+<file name="SimpleHeaderFactory.php" server="C:/wamp/www/" local="131362912325720176" remote="131362912320000000" Dst="2" />
+<file name="SimpleHeaderSet.php" server="C:/wamp/www/" local="131362912325790180" remote="131362912320000000" Dst="2" />
+<file name="SimpleMessage.php" server="C:/wamp/www/" local="131362912325870187" remote="131362912320000000" Dst="2" />
+<file name="SimpleMimeEntity.php" server="C:/wamp/www/" local="131362912325950187" remote="131362912320000000" Dst="2" />
+</dwsync>

@@ -1,8 +1,6 @@
-# Dreamweaver notes
-_notes/
+# Local metadata files
+*/_notes/ 			# Dreamweaver notes
+*/thumbs.db			# Windows files
 
-# Server files
-.htaccess
-
-# Windows files
-thumbs.db
+# Pre-Grav files
+_old/               # Site data before porting to the Grav CMS

@@ -1,0 +1,20 @@
+title: J-site
+default_lang: en
+author:
+  name: 'Jelle van Campen'
+  email: jelle@jellevancampen.tk
+taxonomies:
+  - category
+  - tag
+metadata:
+  title: 'Computer Science, Graphics, and Games | The J-site'
+  description: 'The J-site is my channel for highlighting the magic in everyday computer technology. I keep a blog, write articles and create projects. See you inside!'
+  application-name: J-site
+  apple-mobile-web-app-title: J-site
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog

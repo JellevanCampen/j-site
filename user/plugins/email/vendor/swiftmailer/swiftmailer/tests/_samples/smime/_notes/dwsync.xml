@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ca.crt" server="C:/wamp/www/" local="131362912332820585" remote="131362912330000000" Dst="2" />
+<file name="ca.key" server="C:/wamp/www/" local="131362912332880586" remote="131362912330000000" Dst="2" />
+<file name="CA.srl" server="C:/wamp/www/" local="131362912332560568" remote="131362912330000000" Dst="2" />
+<file name="create-cert.sh" server="C:/wamp/www/" local="131362912332940593" remote="131362912330000000" Dst="2" />
+<file name="encrypt.crt" server="C:/wamp/www/" local="131362912332990596" remote="131362912330000000" Dst="2" />
+<file name="encrypt.key" server="C:/wamp/www/" local="131362912333040599" remote="131362912330000000" Dst="2" />
+<file name="encrypt2.crt" server="C:/wamp/www/" local="131362912333080600" remote="131362912330000000" Dst="2" />
+<file name="encrypt2.key" server="C:/wamp/www/" local="131362912333140603" remote="131362912330000000" Dst="2" />
+<file name="intermediate.crt" server="C:/wamp/www/" local="131362912333180607" remote="131362912330000000" Dst="2" />
+<file name="intermediate.key" server="C:/wamp/www/" local="131362912333230610" remote="131362912330000000" Dst="2" />
+<file name="sign.crt" server="C:/wamp/www/" local="131362912333270608" remote="131362912330000000" Dst="2" />
+<file name="sign.key" server="C:/wamp/www/" local="131362912333320617" remote="131362912330000000" Dst="2" />
+<file name="sign2.crt" server="C:/wamp/www/" local="131362912333360617" remote="131362912330000000" Dst="2" />
+<file name="sign2.key" server="C:/wamp/www/" local="131362912333410615" remote="131362912330000000" Dst="2" />
+</dwsync>

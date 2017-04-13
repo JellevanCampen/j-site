@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="FileStorage.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="MemcachedStorage.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="pdo_storage_schema.sql" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="PdoStorage.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="RedisStorage.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="StorageInterface.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+</dwsync>
