@@ -5,4 +5,9 @@
 <file name="RuleLoader.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
 <file name="RuleParser.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
 <file name="Scraper.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="CandidateParser.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365602000000000" Dst="2" />
+<file name="ParserInterface.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365602000000000" Dst="2" />
+<file name="RuleLoader.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365602000000000" Dst="2" />
+<file name="RuleParser.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365602000000000" Dst="2" />
+<file name="Scraper.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365602000000000" Dst="2" />
 </dwsync>

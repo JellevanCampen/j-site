@@ -5,4 +5,9 @@
 <file name="Common.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
 <file name="GD.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
 <file name="Imagick.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="Adapter.php" server="files.000webhost.com/public_html/" local="131365614000000000" remote="131365614000000000" Dst="2" />
+<file name="AdapterInterface.php" server="files.000webhost.com/public_html/" local="131365614000000000" remote="131365614000000000" Dst="2" />
+<file name="Common.php" server="files.000webhost.com/public_html/" local="131365614000000000" remote="131365614000000000" Dst="2" />
+<file name="GD.php" server="files.000webhost.com/public_html/" local="131365614000000000" remote="131365614000000000" Dst="2" />
+<file name="Imagick.php" server="files.000webhost.com/public_html/" local="131365614000000000" remote="131365614000000000" Dst="2" />
 </dwsync>

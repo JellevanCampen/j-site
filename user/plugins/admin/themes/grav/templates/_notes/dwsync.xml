@@ -19,4 +19,23 @@
 <file name="themes.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
 <file name="tools.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
 <file name="user.html.twig" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="config.html.twig" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365599600000000" Dst="2" />
+<file name="dashboard.html.twig" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365599600000000" Dst="2" />
+<file name="denied.html.twig" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365599600000000" Dst="2" />
+<file name="empty.html.twig" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365599600000000" Dst="2" />
+<file name="error.html.twig" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365599600000000" Dst="2" />
+<file name="error.json.twig" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365599600000000" Dst="2" />
+<file name="forgot.html.twig" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365599600000000" Dst="2" />
+<file name="installer.html.twig" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365599600000000" Dst="2" />
+<file name="login.html.twig" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365599600000000" Dst="2" />
+<file name="logout.html.twig" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365599600000000" Dst="2" />
+<file name="pages.html.twig" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365599600000000" Dst="2" />
+<file name="plugins.html.twig" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365599600000000" Dst="2" />
+<file name="register.html.twig" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365599600000000" Dst="2" />
+<file name="reset.html.twig" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365599600000000" Dst="2" />
+<file name="statistics.html.twig" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365599600000000" Dst="2" />
+<file name="themes.html.twig" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365599600000000" Dst="2" />
+<file name="tools.html.twig" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365599600000000" Dst="2" />
+<file name="user.html.twig" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365599600000000" Dst="2" />
+<file name="default.json.twig" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365790400000000" Dst="2" />
 </dwsync>

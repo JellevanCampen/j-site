@@ -8,4 +8,12 @@
 <file name="ParameterizedHeader.php" server="C:/wamp/www/" local="131362912327020248" remote="131362912320000000" Dst="2" />
 <file name="PathHeader.php" server="C:/wamp/www/" local="131362912327080255" remote="131362912320000000" Dst="2" />
 <file name="UnstructuredHeader.php" server="C:/wamp/www/" local="131362912327150258" remote="131362912320000000" Dst="2" />
+<file name="AbstractHeader.php" server="files.000webhost.com/public_html/" local="131365604400000000" remote="131365604400000000" Dst="2" />
+<file name="DateHeader.php" server="files.000webhost.com/public_html/" local="131365604400000000" remote="131365604400000000" Dst="2" />
+<file name="IdentificationHeader.php" server="files.000webhost.com/public_html/" local="131365604400000000" remote="131365604400000000" Dst="2" />
+<file name="MailboxHeader.php" server="files.000webhost.com/public_html/" local="131365604400000000" remote="131365604400000000" Dst="2" />
+<file name="OpenDKIMHeader.php" server="files.000webhost.com/public_html/" local="131365604400000000" remote="131365604400000000" Dst="2" />
+<file name="ParameterizedHeader.php" server="files.000webhost.com/public_html/" local="131365604400000000" remote="131365604400000000" Dst="2" />
+<file name="PathHeader.php" server="files.000webhost.com/public_html/" local="131365604400000000" remote="131365604400000000" Dst="2" />
+<file name="UnstructuredHeader.php" server="files.000webhost.com/public_html/" local="131365604400000000" remote="131365604400000000" Dst="2" />
 </dwsync>

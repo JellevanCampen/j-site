@@ -7,4 +7,11 @@
 <file name="phpunit.xml.dist" server="C:/wamp/www/" local="131362912318078252" remote="131362912310000000" Dst="2" />
 <file name="README" server="C:/wamp/www/" local="131362912317246857" remote="131362912310000000" Dst="2" />
 <file name="VERSION" server="C:/wamp/www/" local="131362912317436867" remote="131362912310000000" Dst="2" />
+<file name=".gitattributes" server="files.000webhost.com/public_html/" local="131365607400000000" remote="131365607400000000" Dst="2" />
+<file name="CHANGES" server="files.000webhost.com/public_html/" local="131365607400000000" remote="131365607400000000" Dst="2" />
+<file name="composer.json" server="files.000webhost.com/public_html/" local="131365607400000000" remote="131365607400000000" Dst="2" />
+<file name="LICENSE" server="files.000webhost.com/public_html/" local="131365607400000000" remote="131365607400000000" Dst="2" />
+<file name="phpunit.xml.dist" server="files.000webhost.com/public_html/" local="131365607400000000" remote="131365607400000000" Dst="2" />
+<file name="README" server="files.000webhost.com/public_html/" local="131365607400000000" remote="131365607400000000" Dst="2" />
+<file name="VERSION" server="files.000webhost.com/public_html/" local="131365607400000000" remote="131365607400000000" Dst="2" />
 </dwsync>

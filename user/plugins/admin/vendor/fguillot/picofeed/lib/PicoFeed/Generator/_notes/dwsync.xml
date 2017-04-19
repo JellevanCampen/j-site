@@ -3,4 +3,7 @@
 <file name="ContentGeneratorInterface.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
 <file name="FileContentGenerator.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
 <file name="YoutubeContentGenerator.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="ContentGeneratorInterface.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600800000000" Dst="2" />
+<file name="FileContentGenerator.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600800000000" Dst="2" />
+<file name="YoutubeContentGenerator.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600800000000" Dst="2" />
 </dwsync>

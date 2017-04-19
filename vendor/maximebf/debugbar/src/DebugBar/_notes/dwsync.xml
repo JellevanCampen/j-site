@@ -9,4 +9,13 @@
 <file name="RequestIdGenerator.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
 <file name="RequestIdGeneratorInterface.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
 <file name="StandardDebugBar.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="DebugBar.php" server="files.000webhost.com/public_html/" local="131365615800000000" remote="131365615800000000" Dst="2" />
+<file name="DebugBarException.php" server="files.000webhost.com/public_html/" local="131365615800000000" remote="131365615800000000" Dst="2" />
+<file name="HttpDriverInterface.php" server="files.000webhost.com/public_html/" local="131365615800000000" remote="131365615800000000" Dst="2" />
+<file name="JavascriptRenderer.php" server="files.000webhost.com/public_html/" local="131365615800000000" remote="131365615800000000" Dst="2" />
+<file name="OpenHandler.php" server="files.000webhost.com/public_html/" local="131365615800000000" remote="131365615800000000" Dst="2" />
+<file name="PhpHttpDriver.php" server="files.000webhost.com/public_html/" local="131365615800000000" remote="131365615800000000" Dst="2" />
+<file name="RequestIdGenerator.php" server="files.000webhost.com/public_html/" local="131365615800000000" remote="131365615800000000" Dst="2" />
+<file name="RequestIdGeneratorInterface.php" server="files.000webhost.com/public_html/" local="131365615800000000" remote="131365615800000000" Dst="2" />
+<file name="StandardDebugBar.php" server="files.000webhost.com/public_html/" local="131365615800000000" remote="131365615800000000" Dst="2" />
 </dwsync>

@@ -3,4 +3,7 @@
 <file name="ActivationStrategyInterface.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
 <file name="ChannelLevelActivationStrategy.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
 <file name="ErrorLevelActivationStrategy.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="ActivationStrategyInterface.php" server="files.000webhost.com/public_html/" local="131365615800000000" remote="131365615800000000" Dst="2" />
+<file name="ChannelLevelActivationStrategy.php" server="files.000webhost.com/public_html/" local="131365615800000000" remote="131365615800000000" Dst="2" />
+<file name="ErrorLevelActivationStrategy.php" server="files.000webhost.com/public_html/" local="131365615800000000" remote="131365615800000000" Dst="2" />
 </dwsync>

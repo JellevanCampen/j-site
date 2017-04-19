@@ -8,4 +8,12 @@
 <file name="SecurityNotAllowedTagError.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
 <file name="SecurityPolicy.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
 <file name="SecurityPolicyInterface.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="SecurityError.php" server="files.000webhost.com/public_html/" local="131365621200000000" remote="131365621200000000" Dst="2" />
+<file name="SecurityNotAllowedFilterError.php" server="files.000webhost.com/public_html/" local="131365621200000000" remote="131365621200000000" Dst="2" />
+<file name="SecurityNotAllowedFunctionError.php" server="files.000webhost.com/public_html/" local="131365621200000000" remote="131365621200000000" Dst="2" />
+<file name="SecurityNotAllowedMethodError.php" server="files.000webhost.com/public_html/" local="131365621200000000" remote="131365621200000000" Dst="2" />
+<file name="SecurityNotAllowedPropertyError.php" server="files.000webhost.com/public_html/" local="131365621200000000" remote="131365621200000000" Dst="2" />
+<file name="SecurityNotAllowedTagError.php" server="files.000webhost.com/public_html/" local="131365621200000000" remote="131365621200000000" Dst="2" />
+<file name="SecurityPolicy.php" server="files.000webhost.com/public_html/" local="131365621200000000" remote="131365621200000000" Dst="2" />
+<file name="SecurityPolicyInterface.php" server="files.000webhost.com/public_html/" local="131365621800000000" remote="131365621800000000" Dst="2" />
 </dwsync>

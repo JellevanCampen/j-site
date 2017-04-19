@@ -3,4 +3,7 @@
 <file name="BasicException.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
 <file name="FileImportException.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
 <file name="IOException.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="BasicException.php" server="files.000webhost.com/public_html/" local="131365615200000000" remote="131365615200000000" Dst="2" />
+<file name="FileImportException.php" server="files.000webhost.com/public_html/" local="131365615200000000" remote="131365615200000000" Dst="2" />
+<file name="IOException.php" server="files.000webhost.com/public_html/" local="131365615200000000" remote="131365615200000000" Dst="2" />
 </dwsync>

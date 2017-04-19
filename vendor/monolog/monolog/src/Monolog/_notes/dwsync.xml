@@ -3,4 +3,7 @@
 <file name="ErrorHandler.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
 <file name="Logger.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
 <file name="Registry.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="ErrorHandler.php" server="files.000webhost.com/public_html/" local="131365616400000000" remote="131365616400000000" Dst="2" />
+<file name="Logger.php" server="files.000webhost.com/public_html/" local="131365616400000000" remote="131365616400000000" Dst="2" />
+<file name="Registry.php" server="files.000webhost.com/public_html/" local="131365616400000000" remote="131365616400000000" Dst="2" />
 </dwsync>

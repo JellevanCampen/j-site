@@ -9,4 +9,13 @@
 <file name="ClassLoader.php" server="C:/wamp/www/" local="131362912316486814" remote="131362912310000000" Dst="2" />
 <file name="installed.json" server="C:/wamp/www/" local="131362912316976845" remote="131362912310000000" Dst="2" />
 <file name="LICENSE" server="C:/wamp/www/" local="131362912316516814" remote="131362912310000000" Dst="2" />
+<file name="autoload_files.php" server="files.000webhost.com/public_html/" local="131362912316706828" remote="131365790400000000" Dst="2" />
+<file name="autoload_classmap.php" server="files.000webhost.com/public_html/" local="131365603200000000" remote="131365603200000000" Dst="2" />
+<file name="autoload_namespaces.php" server="files.000webhost.com/public_html/" local="131365603200000000" remote="131365603200000000" Dst="2" />
+<file name="autoload_psr4.php" server="files.000webhost.com/public_html/" local="131365603200000000" remote="131365603200000000" Dst="2" />
+<file name="autoload_real.php" server="files.000webhost.com/public_html/" local="131365603200000000" remote="131365603200000000" Dst="2" />
+<file name="autoload_static.php" server="files.000webhost.com/public_html/" local="131365603200000000" remote="131365603200000000" Dst="2" />
+<file name="ClassLoader.php" server="files.000webhost.com/public_html/" local="131365603200000000" remote="131365603200000000" Dst="2" />
+<file name="installed.json" server="files.000webhost.com/public_html/" local="131365603200000000" remote="131365603200000000" Dst="2" />
+<file name="LICENSE" server="files.000webhost.com/public_html/" local="131365603200000000" remote="131365603200000000" Dst="2" />
 </dwsync>

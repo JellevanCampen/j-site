@@ -6,4 +6,10 @@
 <file name="ParameterizedHeaderTest.php" server="C:/wamp/www/" local="131362912340111005" remote="131362912340000000" Dst="2" />
 <file name="PathHeaderTest.php" server="C:/wamp/www/" local="131362912340171009" remote="131362912340000000" Dst="2" />
 <file name="UnstructuredHeaderTest.php" server="C:/wamp/www/" local="131362912340231007" remote="131362912340000000" Dst="2" />
+<file name="DateHeaderTest.php" server="files.000webhost.com/public_html/" local="131365606800000000" remote="131365606800000000" Dst="2" />
+<file name="IdentificationHeaderTest.php" server="files.000webhost.com/public_html/" local="131365606800000000" remote="131365606800000000" Dst="2" />
+<file name="MailboxHeaderTest.php" server="files.000webhost.com/public_html/" local="131365606800000000" remote="131365606800000000" Dst="2" />
+<file name="ParameterizedHeaderTest.php" server="files.000webhost.com/public_html/" local="131365606800000000" remote="131365606800000000" Dst="2" />
+<file name="PathHeaderTest.php" server="files.000webhost.com/public_html/" local="131365606800000000" remote="131365606800000000" Dst="2" />
+<file name="UnstructuredHeaderTest.php" server="files.000webhost.com/public_html/" local="131365606800000000" remote="131365606800000000" Dst="2" />
 </dwsync>

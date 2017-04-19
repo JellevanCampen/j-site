@@ -7,4 +7,11 @@
 <file name="media.js" server="C:/wamp/www/" local="131363847700000000" remote="131363847700000000" Dst="2" />
 <file name="move.js" server="C:/wamp/www/" local="131363847700000000" remote="131363847700000000" Dst="2" />
 <file name="multilang.js" server="C:/wamp/www/" local="131363847700000000" remote="131363847700000000" Dst="2" />
+<file name="add.js" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365596000000000" Dst="2" />
+<file name="delete.js" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365596000000000" Dst="2" />
+<file name="disable-buttons.js" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365596000000000" Dst="2" />
+<file name="index.js" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365596000000000" Dst="2" />
+<file name="media.js" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365596000000000" Dst="2" />
+<file name="move.js" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365596000000000" Dst="2" />
+<file name="multilang.js" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365596000000000" Dst="2" />
 </dwsync>

@@ -3,4 +3,7 @@
 <file name="Authentication.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
 <file name="Group.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
 <file name="User.php" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name="Authentication.php" server="files.000webhost.com/public_html/" local="131363847910000000" remote="131365594200000000" Dst="2" />
+<file name="Group.php" server="files.000webhost.com/public_html/" local="131363847910000000" remote="131365594200000000" Dst="2" />
+<file name="User.php" server="files.000webhost.com/public_html/" local="131363847910000000" remote="131365594200000000" Dst="2" />
 </dwsync>

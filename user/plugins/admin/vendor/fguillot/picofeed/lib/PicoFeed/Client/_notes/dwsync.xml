@@ -13,4 +13,17 @@
 <file name="TimeoutException.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
 <file name="UnauthorizedException.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
 <file name="Url.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="Client.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600200000000" Dst="2" />
+<file name="ClientException.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600200000000" Dst="2" />
+<file name="Curl.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600200000000" Dst="2" />
+<file name="ForbiddenException.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600200000000" Dst="2" />
+<file name="HttpHeaders.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600200000000" Dst="2" />
+<file name="InvalidCertificateException.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600200000000" Dst="2" />
+<file name="InvalidUrlException.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600200000000" Dst="2" />
+<file name="MaxRedirectException.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600200000000" Dst="2" />
+<file name="MaxSizeException.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600200000000" Dst="2" />
+<file name="Stream.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600200000000" Dst="2" />
+<file name="TimeoutException.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600200000000" Dst="2" />
+<file name="UnauthorizedException.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600200000000" Dst="2" />
+<file name="Url.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600200000000" Dst="2" />
 </dwsync>

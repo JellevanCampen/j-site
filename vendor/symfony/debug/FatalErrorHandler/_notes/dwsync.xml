@@ -4,4 +4,8 @@
 <file name="FatalErrorHandlerInterface.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
 <file name="UndefinedFunctionFatalErrorHandler.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
 <file name="UndefinedMethodFatalErrorHandler.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="ClassNotFoundFatalErrorHandler.php" server="files.000webhost.com/public_html/" local="131365618800000000" remote="131365618800000000" Dst="2" />
+<file name="FatalErrorHandlerInterface.php" server="files.000webhost.com/public_html/" local="131365618800000000" remote="131365618800000000" Dst="2" />
+<file name="UndefinedFunctionFatalErrorHandler.php" server="files.000webhost.com/public_html/" local="131365618800000000" remote="131365618800000000" Dst="2" />
+<file name="UndefinedMethodFatalErrorHandler.php" server="files.000webhost.com/public_html/" local="131365618800000000" remote="131365618800000000" Dst="2" />
 </dwsync>

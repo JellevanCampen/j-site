@@ -4,4 +4,8 @@
 <file name="BasicSmokeTest.php" server="C:/wamp/www/" local="131362912336860811" remote="131362912330000000" Dst="2" />
 <file name="HtmlWithAttachmentSmokeTest.php" server="C:/wamp/www/" local="131362912336920821" remote="131362912330000000" Dst="2" />
 <file name="InternationalSmokeTest.php" server="C:/wamp/www/" local="131362912337100831" remote="131362912330000000" Dst="2" />
+<file name="AttachmentSmokeTest.php" server="files.000webhost.com/public_html/" local="131365606200000000" remote="131365606200000000" Dst="2" />
+<file name="BasicSmokeTest.php" server="files.000webhost.com/public_html/" local="131365606200000000" remote="131365606200000000" Dst="2" />
+<file name="HtmlWithAttachmentSmokeTest.php" server="files.000webhost.com/public_html/" local="131365606200000000" remote="131365606200000000" Dst="2" />
+<file name="InternationalSmokeTest.php" server="files.000webhost.com/public_html/" local="131365606200000000" remote="131365606200000000" Dst="2" />
 </dwsync>

@@ -1,6 +1,19 @@
 # Local metadata files
-*/_notes/ 			# Dreamweaver notes
-*/thumbs.db			# Windows files
+_notes/ 			# Dreamweaver notes
+thumbs.db			# Thumbnails file (Win)
+ehthumbs.db			# Thumbnails file (Win)
+Icon?				# Thumbnails file
+.DS_Store*			# Folder metadata (OSX)
+*.swp				# Linux swap file
+
+# Grav Specific
+.sass-cache
+composer.lock
+cache/*
+assets/*
+logs/*
+images/*
+user/data/*
 
 # Pre-Grav files
 _old/               # Site data before porting to the Grav CMS

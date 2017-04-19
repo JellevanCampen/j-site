@@ -8,4 +8,12 @@
 <file name="Rss20FeedBuilder.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
 <file name="Rss20Helper.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
 <file name="Rss20ItemBuilder.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="AtomFeedBuilder.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365602000000000" Dst="2" />
+<file name="AtomHelper.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365602000000000" Dst="2" />
+<file name="AtomItemBuilder.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365602000000000" Dst="2" />
+<file name="FeedBuilder.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365602000000000" Dst="2" />
+<file name="ItemBuilder.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365602000000000" Dst="2" />
+<file name="Rss20FeedBuilder.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365602000000000" Dst="2" />
+<file name="Rss20Helper.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365602000000000" Dst="2" />
+<file name="Rss20ItemBuilder.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365602000000000" Dst="2" />
 </dwsync>

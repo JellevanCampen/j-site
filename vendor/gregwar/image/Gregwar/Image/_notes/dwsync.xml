@@ -10,4 +10,14 @@
 <file name="Makefile" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
 <file name="phpunit.xml.dist" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
 <file name="README.md" server="C:/wamp/www/" local="131363847910000000" remote="131363847910000000" Dst="2" />
+<file name=".php_cs" server="files.000webhost.com/public_html/" local="131365614000000000" remote="131365614000000000" Dst="2" />
+<file name=".styleci.yml" server="files.000webhost.com/public_html/" local="131365614000000000" remote="131365614000000000" Dst="2" />
+<file name="autoload.php" server="files.000webhost.com/public_html/" local="131365614000000000" remote="131365614000000000" Dst="2" />
+<file name="GarbageCollect.php" server="files.000webhost.com/public_html/" local="131365614000000000" remote="131365614000000000" Dst="2" />
+<file name="Image.php" server="files.000webhost.com/public_html/" local="131365614000000000" remote="131365614000000000" Dst="2" />
+<file name="ImageColor.php" server="files.000webhost.com/public_html/" local="131365614000000000" remote="131365614000000000" Dst="2" />
+<file name="LICENSE" server="files.000webhost.com/public_html/" local="131365614000000000" remote="131365614000000000" Dst="2" />
+<file name="Makefile" server="files.000webhost.com/public_html/" local="131365614000000000" remote="131365614000000000" Dst="2" />
+<file name="phpunit.xml.dist" server="files.000webhost.com/public_html/" local="131365614000000000" remote="131365614000000000" Dst="2" />
+<file name="README.md" server="files.000webhost.com/public_html/" local="131365614000000000" remote="131365614000000000" Dst="2" />
 </dwsync>

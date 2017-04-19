@@ -6,4 +6,10 @@
 <file name="new.yaml" server="C:/wamp/www/" local="131363847700000000" remote="131363847700000000" Dst="2" />
 <file name="new_folder.yaml" server="C:/wamp/www/" local="131363847700000000" remote="131363847700000000" Dst="2" />
 <file name="raw.yaml" server="C:/wamp/www/" local="131363847700000000" remote="131363847700000000" Dst="2" />
+<file name="modular_new.yaml" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365594800000000" Dst="2" />
+<file name="modular_raw.yaml" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365594800000000" Dst="2" />
+<file name="move.yaml" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365594800000000" Dst="2" />
+<file name="new.yaml" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365594800000000" Dst="2" />
+<file name="new_folder.yaml" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365594800000000" Dst="2" />
+<file name="raw.yaml" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365594800000000" Dst="2" />
 </dwsync>

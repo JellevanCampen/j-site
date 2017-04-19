@@ -6,4 +6,10 @@
 <file name="SocketTimeoutTest.php" server="C:/wamp/www/" local="131362912335490736" remote="131362912330000000" Dst="2" />
 <file name="SslSocketAcceptanceTest.php" server="C:/wamp/www/" local="131362912335560748" remote="131362912330000000" Dst="2" />
 <file name="TlsSocketAcceptanceTest.php" server="C:/wamp/www/" local="131362912335630746" remote="131362912330000000" Dst="2" />
+<file name="AbstractStreamBufferAcceptanceTest.php" server="files.000webhost.com/public_html/" local="131365606200000000" remote="131365606200000000" Dst="2" />
+<file name="BasicSocketAcceptanceTest.php" server="files.000webhost.com/public_html/" local="131365606200000000" remote="131365606200000000" Dst="2" />
+<file name="ProcessAcceptanceTest.php" server="files.000webhost.com/public_html/" local="131365606200000000" remote="131365606200000000" Dst="2" />
+<file name="SocketTimeoutTest.php" server="files.000webhost.com/public_html/" local="131365606200000000" remote="131365606200000000" Dst="2" />
+<file name="SslSocketAcceptanceTest.php" server="files.000webhost.com/public_html/" local="131365606200000000" remote="131365606200000000" Dst="2" />
+<file name="TlsSocketAcceptanceTest.php" server="files.000webhost.com/public_html/" local="131365606200000000" remote="131365606200000000" Dst="2" />
 </dwsync>

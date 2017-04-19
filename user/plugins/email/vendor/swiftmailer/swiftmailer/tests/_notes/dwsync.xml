@@ -7,4 +7,11 @@
 <file name="StreamCollector.php" server="C:/wamp/www/" local="131362912331420501" remote="131362912330000000" Dst="2" />
 <file name="SwiftMailerSmokeTestCase.php" server="C:/wamp/www/" local="131362912331500505" remote="131362912330000000" Dst="2" />
 <file name="SwiftMailerTestCase.php" server="C:/wamp/www/" local="131362912331570514" remote="131362912330000000" Dst="2" />
+<file name="acceptance.conf.php.default" server="files.000webhost.com/public_html/" local="131365607400000000" remote="131365607400000000" Dst="2" />
+<file name="bootstrap.php" server="files.000webhost.com/public_html/" local="131365607400000000" remote="131365607400000000" Dst="2" />
+<file name="IdenticalBinaryConstraint.php" server="files.000webhost.com/public_html/" local="131365607400000000" remote="131365607400000000" Dst="2" />
+<file name="smoke.conf.php.default" server="files.000webhost.com/public_html/" local="131365607400000000" remote="131365607400000000" Dst="2" />
+<file name="StreamCollector.php" server="files.000webhost.com/public_html/" local="131365607400000000" remote="131365607400000000" Dst="2" />
+<file name="SwiftMailerSmokeTestCase.php" server="files.000webhost.com/public_html/" local="131365607400000000" remote="131365607400000000" Dst="2" />
+<file name="SwiftMailerTestCase.php" server="files.000webhost.com/public_html/" local="131365607400000000" remote="131365607400000000" Dst="2" />
 </dwsync>

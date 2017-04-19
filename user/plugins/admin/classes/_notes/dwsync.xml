@@ -7,4 +7,11 @@
 <file name="popularity.php" server="C:/wamp/www/" local="131363847700000000" remote="131363847700000000" Dst="2" />
 <file name="themes.php" server="C:/wamp/www/" local="131363847700000000" remote="131363847700000000" Dst="2" />
 <file name="utils.php" server="C:/wamp/www/" local="131363847700000000" remote="131363847700000000" Dst="2" />
+<file name="admin.php" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365595400000000" Dst="2" />
+<file name="adminbasecontroller.php" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365595400000000" Dst="2" />
+<file name="admincontroller.php" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365595400000000" Dst="2" />
+<file name="gpm.php" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365595400000000" Dst="2" />
+<file name="popularity.php" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365595400000000" Dst="2" />
+<file name="themes.php" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365595400000000" Dst="2" />
+<file name="utils.php" server="files.000webhost.com/public_html/" local="131363847700000000" remote="131365595400000000" Dst="2" />
 </dwsync>

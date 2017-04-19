@@ -5,4 +5,9 @@
 <file name="ReaderException.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
 <file name="SubscriptionNotFoundException.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
 <file name="UnsupportedFeedFormatException.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="Favicon.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600800000000" Dst="2" />
+<file name="Reader.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600800000000" Dst="2" />
+<file name="ReaderException.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600800000000" Dst="2" />
+<file name="SubscriptionNotFoundException.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600800000000" Dst="2" />
+<file name="UnsupportedFeedFormatException.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600800000000" Dst="2" />
 </dwsync>

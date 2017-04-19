@@ -5,4 +5,9 @@
 <file name="media.yaml" server="C:/wamp/www/" local="131362915240000000" remote="131362915240000000" Dst="2" />
 <file name="security.yaml" server="C:/wamp/www/" local="131362915230000000" remote="131362915230000000" Dst="2" />
 <file name="streams.yaml" server="C:/wamp/www/" local="131362915240000000" remote="131362915240000000" Dst="2" />
+<file name="media.yaml" server="files.000webhost.com/public_html/" local="131362915240000000" remote="131365594800000000" Dst="2" />
+<file name="security.yaml" server="files.000webhost.com/public_html/" local="131362915230000000" remote="131365594800000000" Dst="2" />
+<file name="site.yaml" server="files.000webhost.com/public_html/" local="131364721400000000" remote="131365594800000000" Dst="2" />
+<file name="streams.yaml" server="files.000webhost.com/public_html/" local="131362915240000000" remote="131365594800000000" Dst="2" />
+<file name="system.yaml" server="files.000webhost.com/public_html/" local="131364033430000000" remote="131365594800000000" Dst="2" />
 </dwsync>

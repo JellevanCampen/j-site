@@ -10,4 +10,14 @@
 <file name="Sandbox.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
 <file name="Staging.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
 <file name="StringLoader.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="Core.php" server="files.000webhost.com/public_html/" local="131365620600000000" remote="131365620600000000" Dst="2" />
+<file name="Debug.php" server="files.000webhost.com/public_html/" local="131365620600000000" remote="131365620600000000" Dst="2" />
+<file name="Escaper.php" server="files.000webhost.com/public_html/" local="131365620600000000" remote="131365620600000000" Dst="2" />
+<file name="GlobalsInterface.php" server="files.000webhost.com/public_html/" local="131365620600000000" remote="131365620600000000" Dst="2" />
+<file name="InitRuntimeInterface.php" server="files.000webhost.com/public_html/" local="131365620600000000" remote="131365620600000000" Dst="2" />
+<file name="Optimizer.php" server="files.000webhost.com/public_html/" local="131365620600000000" remote="131365620600000000" Dst="2" />
+<file name="Profiler.php" server="files.000webhost.com/public_html/" local="131365620600000000" remote="131365620600000000" Dst="2" />
+<file name="Sandbox.php" server="files.000webhost.com/public_html/" local="131365620600000000" remote="131365620600000000" Dst="2" />
+<file name="Staging.php" server="files.000webhost.com/public_html/" local="131365620600000000" remote="131365620600000000" Dst="2" />
+<file name="StringLoader.php" server="files.000webhost.com/public_html/" local="131365620600000000" remote="131365620600000000" Dst="2" />
 </dwsync>

@@ -4,4 +4,8 @@
 <file name="EmbeddedFileAcceptanceTest.php" server="C:/wamp/www/" local="131362912334580688" remote="131362912330000000" Dst="2" />
 <file name="MimePartAcceptanceTest.php" server="C:/wamp/www/" local="131362912334650692" remote="131362912330000000" Dst="2" />
 <file name="SimpleMessageAcceptanceTest.php" server="C:/wamp/www/" local="131362912334740696" remote="131362912330000000" Dst="2" />
+<file name="AttachmentAcceptanceTest.php" server="files.000webhost.com/public_html/" local="131365606200000000" remote="131365606200000000" Dst="2" />
+<file name="EmbeddedFileAcceptanceTest.php" server="files.000webhost.com/public_html/" local="131365606200000000" remote="131365606200000000" Dst="2" />
+<file name="MimePartAcceptanceTest.php" server="files.000webhost.com/public_html/" local="131365606200000000" remote="131365606200000000" Dst="2" />
+<file name="SimpleMessageAcceptanceTest.php" server="files.000webhost.com/public_html/" local="131365606200000000" remote="131365606200000000" Dst="2" />
 </dwsync>

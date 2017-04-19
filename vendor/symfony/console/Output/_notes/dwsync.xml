@@ -7,4 +7,11 @@
 <file name="Output.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
 <file name="OutputInterface.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
 <file name="StreamOutput.php" server="C:/wamp/www/" local="131363847920000000" remote="131363847920000000" Dst="2" />
+<file name="BufferedOutput.php" server="files.000webhost.com/public_html/" local="131365618800000000" remote="131365618800000000" Dst="2" />
+<file name="ConsoleOutput.php" server="files.000webhost.com/public_html/" local="131365618800000000" remote="131365618800000000" Dst="2" />
+<file name="ConsoleOutputInterface.php" server="files.000webhost.com/public_html/" local="131365618800000000" remote="131365618800000000" Dst="2" />
+<file name="NullOutput.php" server="files.000webhost.com/public_html/" local="131365618800000000" remote="131365618800000000" Dst="2" />
+<file name="Output.php" server="files.000webhost.com/public_html/" local="131365618800000000" remote="131365618800000000" Dst="2" />
+<file name="OutputInterface.php" server="files.000webhost.com/public_html/" local="131365618800000000" remote="131365618800000000" Dst="2" />
+<file name="StreamOutput.php" server="files.000webhost.com/public_html/" local="131365618800000000" remote="131365618800000000" Dst="2" />
 </dwsync>

@@ -3,4 +3,7 @@
 <file name="Comparator.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
 <file name="Semver.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
 <file name="VersionParser.php" server="C:/wamp/www/" local="131363847710000000" remote="131363847710000000" Dst="2" />
+<file name="Comparator.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600200000000" Dst="2" />
+<file name="Semver.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600200000000" Dst="2" />
+<file name="VersionParser.php" server="files.000webhost.com/public_html/" local="131363847710000000" remote="131365600200000000" Dst="2" />
 </dwsync>
