@@ -1,0 +1,166 @@
+/* Style declarations */
+
+$font-text: 'Roboto', 'Noto', sans-serif;
+$font-header: 'Lora', serif;
+$font-monospace: 'Space Mono', monospace;
+
+$color-primary: #0af;
+$color-primary-dark: #05f;
+$color-secondary: #607d8b;
+$color-text-light: #fff;
+$color-text-dark: rgba(0,0,0,.8);
+
+/* Element styles */
+
+body {
+  color: $color-text-dark;
+  font-family: $font-text;
+}
+
+h1 {
+  font: italic 700 2.5rem $font-header;
+}
+
+h2, 
+h3, 
+h4, 
+h5, 
+h6 {
+  font-family: $font-header;
+}
+
+code, 
+samp, 
+var, 
+kbd,
+pre {
+  font-family: $font-monospace;
+}
+
+ul li {
+  list-style-type: square; 
+}
+
+::selection {
+       background-color: $color-primary-dark;
+       color: $color-text-light;
+}
+
+::-moz-selection {
+       background-color: $color-primary-dark;
+       color: $color-text-light;
+}
+
+/* Layout */
+
+body {
+  margin: 0; 
+}
+
+#container {
+  display: flex;
+  flex-flow: row wrap; 
+  margin: 5em auto 0 auto;
+  max-width: 64rem;
+}
+
+header,
+main, 
+#sidebar, 
+footer {
+  flex: 100%; 
+  overflow: hidden;
+}
+
+@media screen and (min-width: 40em) {
+  main {
+    flex: 3 1 1%;
+    max-width: 40rem;
+  }
+
+  #sidebar {
+    flex: 1 1 1%;  
+  }
+}
+
+/* Navigation */
+
+#page-navigation {
+  background: $color-primary;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+#page-navigation ul {
+  list-style: none;
+  margin: 0 auto;
+  max-width: 64rem;
+  padding: 0;
+}
+
+#page-navigation ul li{
+  color: $color-text-light;
+  display: inline-block;
+  transition: .1s;
+}
+
+#page-navigation ul li:hover {
+  background: $color-primary-dark;
+  transition: .15s;
+ }
+
+#page-navigation a {
+    color: $color-text-light;
+    display: inline-block;
+    padding: .75rem;
+    text-decoration: none;
+}
+
+#page-navigation ul li i{
+  vertical-align: middle;
+}
+
+#page-navigation ul li .page-navigation-label{
+  font-weight: bold;
+  vertical-align: middle;
+}
+
+/* Header */
+
+#page-header-logo {
+  width: 20%;
+  max-width: 6rem;
+  min-width: 4rem;
+}
+
+#page-header {
+   display: flex;
+}
+
+#page-header h1, 
+#page-header h2, 
+#page-header p {
+  margin: 0 1rem;
+}
+
+#page-header-sitename {
+  display: none; 
+}
+
+@media screen and (min-width: 28em) {
+  #page-header-sitename {
+    display: block; 
+  }
+}
+
+/* Main */
+
+main {
+  padding: 0 .5rem; 
+}
+
+#sidebar {
+  padding: 0 .5rem; 
+}
