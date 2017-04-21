@@ -1,0 +1,11 @@
+/* Main colors of material design components */
+$mdc-theme-primary: $color-primary;
+$mdc-theme-accent: $color-accent;
+$mdc-theme-background: #fff;
+
+@import "material-components-web/material-components-web";
+
+/* Specific property overrides */
+button {
+  --mdc-theme-text-primary-on-primary: #fff;  
+}

@@ -1,19 +1,9 @@
-/* Style declarations */
-
-$font-text: 'Roboto', 'Noto', sans-serif;
-$font-header: 'Lora', serif;
-$font-monospace: 'Space Mono', monospace;
-
-$color-primary: #0af;
-$color-primary-dark: #05f;
-$color-secondary: #607d8b;
-$color-text-light: #fff;
-$color-text-dark: rgba(0,0,0,.8);
+@import '_style_theme';
+@import '_style_material';
 
 /* Element styles */
 
-body {
-  color: $color-text-dark;
+html {
   font-family: $font-text;
 }
 
@@ -123,7 +113,7 @@ footer {
 }
 
 #page-navigation ul li .page-navigation-label{
-  font-weight: bold;
+  //font-weight: bold;
   vertical-align: middle;
 }
 

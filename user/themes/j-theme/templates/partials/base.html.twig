@@ -22,10 +22,11 @@
     
     {# CSS #}
     {% block stylesheets %}
-        {% do assets.addCss('https://fonts.googleapis.com/css?family=Lora:400,700i|Roboto:300,300i|Space+Mono', 100) %}
+        {% do assets.addCss('https://fonts.googleapis.com/css?family=Lora:400,700i|Roboto:400,400i|Space+Mono', 100) %}
         {% do assets.addCss('https://fonts.googleapis.com/icon?family=Material+Icons', 99) %}
         {% do assets.addCss('theme://css/normalize.css', 98) %}
         {% do assets.addCss('theme://css/theme.css', 97) %}
+        {#% do assets.addCss('theme://node_modules/material-components-web/dist/material-components-web.min.css', 96) %#}
     {% endblock stylesheets %}
     {{ assets.css() }}
     
@@ -33,6 +34,7 @@
     {% block javascripts %}
         {% do assets.addJs('jquery', 100) %}
         {% do assets.addJs('theme://js/theme.js', 99) %}
+        {% do assets.addJs('theme://node_modules/material-components-web/dist/material-components-web.js', 98) %}
     {% endblock javascripts %}
     {{ assets.js() }}
     
@@ -42,7 +44,7 @@
 <body class="{{ page.header.body_classes }}">
   
   {% block page_navigation %}
-  <nav id="page-navigation">
+  <nav id="page-navigation" class="mdc-elevation--z4">
     {% include 'partials/navigation.html.twig' %}
   </nav>
   {% endblock page_navigation %}
@@ -75,6 +77,7 @@
   
   {% block bottom %}
     {{ assets.js('bottom') }}
+    <script>mdc.autoInit()</script>
   {% endblock %}
   
 </body>
