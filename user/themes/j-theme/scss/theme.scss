@@ -81,6 +81,7 @@ footer {
   position: fixed;
   top: 0;
   width: 100%;
+  z-index: 1; // Stack navigation on top of content
 }
 
 #page-navigation ul {
