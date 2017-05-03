@@ -50,7 +50,7 @@ body {
 #container {
   display: flex;
   flex-flow: row wrap; 
-  margin: 5em auto 0 auto;
+  margin: 0 auto;
   max-width: 64rem;
 }
 
@@ -103,10 +103,10 @@ footer {
  }
 
 #page-navigation a {
-    color: $color-text-light;
-    display: inline-block;
-    padding: .75rem;
-    text-decoration: none;
+  color: $color-text-light;
+  display: inline-block;
+  padding: .75rem;
+  text-decoration: none;
 }
 
 #page-navigation ul li i{
@@ -114,20 +114,18 @@ footer {
 }
 
 #page-navigation ul li .page-navigation-label{
-  //font-weight: bold;
   vertical-align: middle;
 }
 
 /* Header */
 
-#page-header-logo {
-  width: 20%;
-  max-width: 6rem;
-  min-width: 4rem;
+#page-header {
+  display: flex;
+  padding: 4rem .5rem .5rem .5rem;
 }
 
-#page-header {
-   display: flex;
+#page-header-logo {
+  width: 4rem;
 }
 
 #page-header h1, 
