@@ -1,12 +1,10 @@
-<div id="page-header-container">
-  <div id="page-header-logo">
-    <a class="logo left" href="{{ base_url == '' ? '/' : base_url }}">
-      <img src="{{ url('theme://images/logo.svg') }}" alt="Logo of the J-site." >
-    </a>
-  </div>
-  <div>
-    <span id="page-header-sitename">{{ config.site.title }}</span>
-    <span id="page-header-pagename">{% if header.title %}{{ header.title|e('html') }} | {% endif %}{{ site.title|e('html') }}</span>
-    <span id="page-header-breadcrumb">Dummy <i class="typcn typcn-media-play"></i> Breadcrump <i class="typcn typcn-media-play"></i> Filler Text</span>   
-  </div>
+<div id="page-header-logo">
+  <a class="logo left" href="{{ base_url == '' ? '/' : base_url }}">
+    <img src="{{ url('theme://images/logo.svg') }}" alt="Logo of the J-site." >
+  </a>
+</div>
+<div>
+  <span id="page-header-sitename">{{ config.site.title }}</span>
+  <span id="page-header-pagename">{% if header.title %}{{ header.title|e('html') }} | {% endif %}{{ site.title|e('html') }}</span>
+  <span id="page-header-breadcrumb">Dummy <i class="typcn typcn-media-play"></i> Breadcrump <i class="typcn typcn-media-play"></i> Filler Text</span>   
 </div>

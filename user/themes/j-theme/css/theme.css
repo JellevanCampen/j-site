@@ -9778,6 +9778,10 @@ ul li {
 
 /* Layout */
 body {
+  background-image: url("../images/header_bg.jpg");
+  background-position-x: center;
+  background-position-y: -8px;
+  background-repeat: no-repeat;
   margin: 0; }
 
 #container {
@@ -9838,14 +9842,6 @@ footer {
 
 /* Header */
 #page-header {
-  background-image: url("../images/header_bg.jpg");
-  background-position-x: center;
-  background-position-y: -20px;
-  background-repeat: no-repeat;
-  margin: 0 -48px;
-  padding: 0 48px; }
-
-#page-header-container {
   display: flex;
   padding: 4rem .5rem 2rem .5rem; }
 
