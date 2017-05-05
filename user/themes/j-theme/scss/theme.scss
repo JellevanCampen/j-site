@@ -118,6 +118,12 @@ footer {
   transition: .15s;
  }
 
+#page-navigation .page-navigation-collapsed {
+  cursor: pointer;
+  display: inline-block;
+  padding: .75rem;
+}
+
 #page-navigation a {
   color: $color-text-light;
   display: inline-block;
@@ -129,6 +135,20 @@ footer {
 #page-navigation ul li i, 
 #page-navigation ul li .page-navigation-label{
   vertical-align: middle;
+}
+
+#page-navigation .page-navigation-full {
+  display: none;
+}
+
+@media screen and (min-width: 40em) {
+  #page-navigation .page-navigation-full {
+    display: inline-block;
+  }
+  
+  #page-navigation .page-navigation-collapsed {
+    display: none;
+  }
 }
 
 /* Header */
