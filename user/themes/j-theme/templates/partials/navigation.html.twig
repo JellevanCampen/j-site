@@ -1,8 +1,47 @@
-<ul>
-  <li class="page-navigation-collapsed"><i class="material-icons">menu</i></li>
-  <li class="page-navigation-full"><a href="/"><i class="material-icons">home</i> <span class="page-navigation-label">Home</span></a></li>
-  <li class="page-navigation-full"><a href="/blog"><i class="material-icons">chat</i> <span class="page-navigation-label">Blog</span></a></li>
-  <li class="page-navigation-full"><a href="/articles"><i class="material-icons">description</i> <span class="page-navigation-label">Articles</span></a></li>
-  <li class="page-navigation-full"><a href="/projects"><i class="material-icons">assignment</i> <span class="page-navigation-label">Projects</span></a></li>
-  <li class="page-navigation-full"><a href="/about"><i class="material-icons">info</i> <span class="page-navigation-label">About</span></a></li>
-</ul>
+<!-- Navigation bar -->
+<nav id="page-navigation" class="mdc-elevation--z4">
+  <ul>
+    <li class="page-navigation-collapsed"><i class="material-icons">menu</i></li>
+    <li class="page-navigation-full"><a href="/"><i class="material-icons">home</i> <span class="page-navigation-label">Home</span></a></li>
+    <li class="page-navigation-full"><a href="/blog"><i class="material-icons">chat</i> <span class="page-navigation-label">Blog</span></a></li>
+    <li class="page-navigation-full"><a href="/articles"><i class="material-icons">description</i> <span class="page-navigation-label">Articles</span></a></li>
+    <li class="page-navigation-full"><a href="/projects"><i class="material-icons">assignment</i> <span class="page-navigation-label">Projects</span></a></li>
+    <li class="page-navigation-full"><a href="/about"><i class="material-icons">info</i> <span class="page-navigation-label">About</span></a></li>
+  </ul>
+</nav>
+
+<!-- Drawer for collapsed navigation -->
+<aside class="mdc-temporary-drawer">
+  <nav class="mdc-temporary-drawer__drawer">
+    <nav class="mdc-temporary-drawer__content mdc-list-group">
+      <div id="icon-with-text-demo" class="mdc-list">
+        <a class="mdc-list-item" href="/home" data-mdc-tabindex-handled="true" tabindex="-1">
+          <i class="material-icons mdc-list-item__start-detail" aria-hidden="true">home</i>Home
+        </a>
+        <a class="mdc-list-item" href="/blog" data-mdc-tabindex-handled="true" tabindex="-1">
+          <i class="material-icons mdc-list-item__start-detail" aria-hidden="true">chat</i>Blog
+        </a>
+        <a class="mdc-list-item" href="/articles" data-mdc-tabindex-handled="true" tabindex="-1">
+          <i class="material-icons mdc-list-item__start-detail" aria-hidden="true">description</i>Articles
+        </a>
+        <a class="mdc-list-item" href="/projects" data-mdc-tabindex-handled="true" tabindex="-1">
+          <i class="material-icons mdc-list-item__start-detail" aria-hidden="true">assignment</i>Projects
+        </a>
+        <a class="mdc-list-item" href="/about" data-mdc-tabindex-handled="true" tabindex="-1">
+          <i class="material-icons mdc-list-item__start-detail" aria-hidden="true">info</i>About
+        </a>
+      </div>
+
+      <hr class="mdc-list-divider">
+
+      <div class="mdc-list">
+        <a class="mdc-list-item" href="#" data-mdc-tabindex-handled="true" tabindex="-1">
+          <i class="material-icons mdc-list-item__start-detail" aria-hidden="true">email</i>Contact
+        </a>
+        <a class="mdc-list-item" href="#" data-mdc-tabindex-handled="true" tabindex="-1">
+          <i class="material-icons mdc-list-item__start-detail" aria-hidden="true">favorite_border</i>Donate
+        </a>
+      </div>
+    </nav>
+  </nav>
+</aside>

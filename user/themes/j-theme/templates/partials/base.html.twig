@@ -32,8 +32,8 @@
     {# JavaScripts #}
     {% block javascripts %}
         {% do assets.addJs('jquery', 100) %}
-        {% do assets.addJs('theme://js/theme.js', 99) %}
-        {% do assets.addJs('theme://node_modules/material-components-web/dist/material-components-web.js', 98) %}
+        {% do assets.addJs('theme://node_modules/material-components-web/dist/material-components-web.js', {'priority':99, 'group':'bottom'}) %}
+        {% do assets.addJs('theme://js/theme.js', {'priority':98, 'group':'bottom'}) %}
     {% endblock javascripts %}
     {{ assets.js() }}
     
@@ -43,9 +43,7 @@
 <body class="{{ page.header.body_classes }}">
   
   {% block page_navigation %}
-  <nav id="page-navigation" class="mdc-elevation--z4">
-    {% include 'partials/navigation.html.twig' %}
-  </nav>
+  {% include 'partials/navigation.html.twig' %}
   {% endblock page_navigation %}
   
   <div id="container">
