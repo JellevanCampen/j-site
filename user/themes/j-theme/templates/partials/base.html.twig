@@ -22,11 +22,10 @@
     
     {# CSS #}
     {% block stylesheets %}
-        {% do assets.addCss('https://fonts.googleapis.com/css?family=Lora:400,700i|Roboto:400,400i|Space+Mono', 100) %}
+        {% do assets.addCss('https://fonts.googleapis.com/css?family=Lora:400,700i|Roboto:400,400i|Space+Mono|Architects+Daughter', 100) %}
         {% do assets.addCss('https://fonts.googleapis.com/icon?family=Material+Icons', 99) %}
         {% do assets.addCss('theme://css/normalize.css', 98) %}
         {% do assets.addCss('theme://css/theme.css', 97) %}
-        {#% do assets.addCss('theme://node_modules/material-components-web/dist/material-components-web.min.css', 96) %#}
     {% endblock stylesheets %}
     {{ assets.css() }}
     

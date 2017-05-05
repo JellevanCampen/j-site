@@ -5,6 +5,7 @@
 
 html {
   font-family: $font-text;
+  color: $color-text-dark;
 }
 
 h1 {
@@ -17,6 +18,17 @@ h4,
 h5, 
 h6 {
   font-family: $font-header;
+}
+
+a {
+  color: $color-primary-dark;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: $color-primary;
+  text-decoration: underline;
 }
 
 code, 
@@ -109,14 +121,12 @@ footer {
 #page-navigation a {
   color: $color-text-light;
   display: inline-block;
+  font-weight: normal;
   padding: .75rem;
   text-decoration: none;
 }
 
-#page-navigation ul li i{
-  vertical-align: middle;
-}
-
+#page-navigation ul li i, 
 #page-navigation ul li .page-navigation-label{
   vertical-align: middle;
 }
@@ -125,27 +135,29 @@ footer {
 
 #page-header {
   display: flex;
-  padding: 4rem .5rem 2rem .5rem;
+  opacity: .9;
+  padding: 4rem .5rem 2.5rem .5rem;
+  transform: rotate(-1deg);
 }
 
 #page-header-logo {
+  margin-top: .4rem;
   width: 4rem;
 }
 
-#page-header h1, 
-#page-header h2, 
-#page-header p {
-  margin: 0 1rem;
+#page-header-text {
+  margin-left: 1rem;
 }
 
-#page-header-sitename {
-  display: none; 
+#page-header-pagename {
+  display: block;
+  font: 600 2rem $font-handwritten;
 }
 
-@media screen and (min-width: 28em) {
-  #page-header-sitename {
-    display: block; 
-  }
+#page-header-breadcrumbs i,
+#page-header-breadcrumbs a,
+#page-header-breadcrumbs span,{
+  vertical-align: middle;
 }
 
 /* Main */
