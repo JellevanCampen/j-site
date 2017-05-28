@@ -56,10 +56,6 @@ ul li {
 /* Layout */
 
 body {
-  background-image: url("../images/header_bg.jpg");
-  background-position-x: center;
-  background-position-y: -8px;
-  background-repeat: no-repeat;
   margin: 0; 
 }
 
@@ -78,10 +74,18 @@ footer {
   overflow: hidden;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 48em) {
+  
+  body {
+    background-image: url("../images/header_bg.jpg");
+    background-position-x: center;
+    background-position-y: -8px;
+    background-repeat: no-repeat;
+  }
+  
   main {
     flex: 3 1 1%;
-    max-width: 40rem;
+    max-width: 48rem;
   }
 
   #sidebar {
@@ -118,10 +122,24 @@ footer {
   transition: .15s;
  }
 
-#page-navigation .page-navigation-collapsed {
+.page-navigation-collapsed {
   cursor: pointer;
   display: inline-block;
+}
+
+.page-navigation-collapsed i{
   padding: .75rem;
+}
+
+#page-navigation-collapsed-logo{
+  display: block;
+  float: right;
+  padding: 0;
+}
+
+#page-navigation-collapsed-logo a{
+  width: 24px;
+  height: 24px;
 }
 
 #page-navigation a {
@@ -141,7 +159,7 @@ footer {
   display: none;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 48em) {
   #page-navigation .page-navigation-full {
     display: inline-block;
   }
@@ -154,38 +172,70 @@ footer {
 /* Header */
 
 #page-header {
+  background-image: url("../images/header_bg_pattern.png");
+  box-shadow: 0 10px 6px rgba(0, 0, 0, .15);
   display: flex;
   opacity: .9;
-  padding: 4rem .5rem 2.5rem .5rem;
-  transform: rotate(-1deg);
+  padding: 4rem .5rem 1rem .5rem;
 }
 
 #page-header-logo {
+  display: none;
+  margin-right: 1rem;
   margin-top: .4rem;
   width: 4rem;
 }
 
-#page-header-text {
-  margin-left: 1rem;
-}
-
 #page-header-pagename {
   display: block;
-  font: 600 2rem $font-handwritten;
+  font: 600 1.5rem $font-handwritten;
+}
+
+#page-header-breadcrumbs {
+  margin-top: .25rem;
 }
 
 #page-header-breadcrumbs i,
 #page-header-breadcrumbs a,
 #page-header-breadcrumbs span,{
+  font-size: .9rem;
   vertical-align: middle;
+}
+
+
+@media screen and (min-width: 24em) {
+  #page-header-pagename {
+    font-size: 2rem;
+  }
+  
+  #page-header-breadcrumbs i,
+  #page-header-breadcrumbs a,
+  #page-header-breadcrumbs span,{
+    font-size: 1rem;
+  }
+}
+
+@media screen and (min-width: 48em) {
+  #page-header {
+    background: none;
+    box-shadow: none;
+    margin-bottom: 1.5rem;
+    transform: rotate(-1deg);
+  }
+  
+  #page-header-logo {
+    display: block;
+  }
 }
 
 /* Main */
 
 main {
+  margin-top: 1rem;
   padding: 0 .5rem; 
 }
 
 #sidebar {
+  margin-top: 1rem;
   padding: 0 .5rem; 
 }
