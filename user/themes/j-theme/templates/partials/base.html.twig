@@ -34,6 +34,7 @@
         {% do assets.addJs('jquery', 100) %}
         {% do assets.addJs('theme://node_modules/material-components-web/dist/material-components-web.js', {'priority':99, 'group':'bottom'}) %}
         {% do assets.addJs('theme://js/theme.js', {'priority':98, 'group':'bottom'}) %}
+        {% do assets.addJs('theme://js/analytics.js', {'priority':97, 'group':'bottom'}) %}
     {% endblock javascripts %}
     {{ assets.js() }}
     
